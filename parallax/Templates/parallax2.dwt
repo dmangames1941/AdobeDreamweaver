@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../parallax2/styles2.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/jaw1dqj.css">
+<!-- TemplateBeginEditable name="head" -->
+<style type="text/css">
+	
+</style>
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div class="pimg1">
+		<div class="ptext">
+		<span class="border">
+			<!-- TemplateBeginEditable name="pimg1" -->
+			Parallax Website
+			<!-- TemplateEndEditable -->
+		</span>
+		</div>
+	</div>
+	
+	<section class="section section-light">
+		<!-- TemplateBeginEditable name="sect1" -->
+		<h2>Section One</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed delectus eius est expedita rerum quia repudiandae, quibusdam praesentium similique. Eveniet placeat voluptatibus qui doloremque, rerum, laboriosam suscipit mollitia? Atque, explicabo, animi aut commodi ea et. Vitae excepturi quibusdam quasi mollitia laboriosam temporibus facere sapiente ad, eos nesciunt, sequi eaque repellat atque adipisci magni, iste natus omnis beatae ipsa officiis. Dolorem cupiditate magnam officia delectus corporis harum ab, magni! Fugiat unde, libero totam illo enim repudiandae possimus. Tempore asperiores magnam quae voluptate fugiat ipsam veniam hic ea. Odit enim facere, totam reprehenderit quasi laborum expedita veritatis eius eveniet tenetur! Sed, ducimus.</p>
+		<!-- TemplateEndEditable -->
+	</section>
+	
+	<div class="pimg2">
+		<div class="ptext">
+		<span class="border trans">
+			<!-- TemplateBeginEditable name="pimg2" -->
+			Image Two Text	
+			<!-- TemplateEndEditable -->
+		</span>
+		</div>
+	</div>
+	
+	<section class="section section-dark">
+		<!-- TemplateBeginEditable name="sect2" -->
+		<h2>Section Two</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed delectus eius est expedita rerum quia repudiandae, quibusdam praesentium similique. Eveniet placeat voluptatibus qui doloremque, rerum, laboriosam suscipit mollitia? Atque, explicabo, animi aut commodi ea et. Vitae excepturi quibusdam quasi mollitia laboriosam temporibus facere sapiente ad, eos nesciunt, sequi eaque repellat atque adipisci magni, iste natus omnis beatae ipsa officiis. Dolorem cupiditate magnam officia delectus corporis harum ab, magni! Fugiat unde, libero totam illo enim repudiandae possimus.</p>
+		<!-- TemplateEndEditable -->
+	</section>
+	
+	<div class="pimg3">
+		<div class="ptext">
+		<span class="border trans">
+			<!-- TemplateBeginEditable name="pimg3" -->
+			Image Three Text
+			<!-- TemplateEndEditable -->
+		</span>
+		</div>
+	</div>
+	
+	<section class="section section-dark">
+		<!-- TemplateBeginEditable name="sect3" -->
+		<h2>Section Three</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed delectus eius est expedita rerum quia repudiandae, quibusdam praesentium similique. Eveniet placeat voluptatibus qui doloremque, rerum, laboriosam suscipit mollitia? Atque, explicabo, animi aut commodi ea et. Vitae excepturi quibusdam quasi mollitia laboriosam temporibus facere sapiente ad, eos nesciunt, sequi eaque repellat atque adipisci magni, iste natus omnis beatae ipsa officiis. Dolorem cupiditate magnam officia delectus corporis harum ab, magni! Fugiat unde, libero totam illo enim repudiandae possimus.</p>
+		<!-- TemplateEndEditable -->
+	</section>
+	
+	<div class="pimg1">
+		<div class="ptext">
+		<span class="border trans">
+				
+		</span>
+		</div>
+	</div>
+</body>
+</html>

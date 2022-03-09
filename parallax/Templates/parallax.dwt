@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Parallax</title>
+<!-- TemplateEndEditable -->
+<link href="../parallax1/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/jaw1dqj.css">
+<!-- TemplateBeginEditable name="head" -->
+<style type="text/css">
+	
+</style>
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+	<div class="div1" id="parallax">
+		<!-- TemplateBeginEditable name="div1" -->
+		<h2>Div 1</h2>
+		<!-- TemplateEndEditable -->
+	</div>
+	<div class="div2">
+		<!-- TemplateBeginEditable name="div2" -->
+		<h2>Div 2</h2>
+	  <!-- TemplateEndEditable -->
+</div>
+	<div class="div3">
+		<!-- TemplateBeginEditable name="div3" -->
+		<h2>Div 3</h2>
+	  <!-- TemplateEndEditable -->
+</div>
+	<div class="div4">
+		<!-- TemplateBeginEditable name="div4" -->
+		<h2>Div 4</h2>
+	  <!-- TemplateEndEditable -->
+</div>
+	
+<script src="../parallax1/main.js"></script>
+
+</body>
+</html>
