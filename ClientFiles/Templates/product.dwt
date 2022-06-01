@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>product</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+	<link href="../css/client.css" rel="stylesheet" type="text/css">
+	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+	<link href="../css/slideshow.css" rel="stylesheet" type="text/css">
+<!-- TemplateEndEditable -->
+<style>
+<!-- TemplateBeginEditable name="Style"-->
+	h2{
+		font-family: HelveticaNeue;
+		color: #4141d9;
+		font-size: 125px;
+		font-weight: 500;
+	}
+	
+	<!-- TemplateEndEditable -->
+</style>
+</head>
+
+<body>
+
+<div id="container">
+  		<div class="navbar">
+  <div class="circle"></div>
+  <a href="index.html">Home</a>
+  <a href="about.html">About Me</a>
+  <div class="dropdown">
+    <button class="dropbtn">Keyboards
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="keyboards.html">Products</a>
+      <a href="videos.html">Videos</a>
+    </div>
+  </div>
+  <a href="contact.html">Contact</a>
+  <button class="toCheckout" onclick="window.location.href = 'checkout.html';"><i class="icon-shopping-cart"></i></button>
+</div>
+<!-- TemplateBeginEditable name="main" -->
+<main>
+<div class="lightgraybig">
+</div>
+<div>
+<h1>Product Name</h1>
+<div class="carousel">
+  <div class="carousel__item">Content #1</div>
+  <div class="carousel__item">Content #2</div>
+  <div class="carousel__item">Content #3</div>
+  <div class="carousel__item">Content #4</div>
+</div>
+<script src="../JS/slideshow.js"></script>
+<h2>Product Name</h2>
+<h2>Price:</h2>
+<h3>Discription</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium dicta, id vel consectetur, debitis laudantium a reprehenderit mollitia optio architecto libero, voluptas molestiae odio fuga doloribus harum. Fugiat distinctio laboriosam, veniam temporibus ratione praesentium saepe commodi, iusto consequatur placeat rem, eveniet neque cumque quae. At aut placeat beatae? Tempora, temporibus!</p>
+
+</div>
+</main>
+	</div>	
+<!-- TemplateEndEditable -->	
+</body>
+</html>

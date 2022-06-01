@@ -1,0 +1,129 @@
+@charset "UTF-8";
+body {
+    background-color: #00008B;
+}
+main {
+    background-color: #C9C9C9;
+    height: 1400px;
+    margin-left: 5%;
+    width: 1260px;
+    margin-bottom: 15px;
+}
+main div h1 {
+    text-align: center;
+    font-family: HelveticaNeue;
+    font-size: 50px;
+    font-weight: 400;
+    background-color: #4C55A5;
+    margin-right: 50px;
+    margin-left: 50px;
+	color: #b2b2c4; 
+}
+.lightgraysmall {
+	background-color: #C9C9C9;
+	height: 1px;
+}
+.lightgraymedium {
+	background-color: #C9C9C9;
+	height: 11px;
+}
+.lightgraybig {
+	background-color: #C9C9C9;
+	height: 46px;
+}
+.aboutme {
+	height: 830px;
+}
+.rounded-circle {
+  border-radius: 50% !important;
+}
+#container{
+	width:1400px;
+	height:auto;
+	background-color:white;
+	margin:auto;
+	}
+/* Navbar container */
+.navbar {
+  overflow: hidden;
+  background-color: #00008b;
+  font-family: Arial;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.checkout{
+	margin-top: 10px;
+	margin-right: 30px;
+	float: right;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #489ee0;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.toCheckout{
+	width:45px;
+	height: 45px;
+	margin-bottom: 10px;
+	float: right;
+}
+.toCheckout:hover{
+	background-color: #489EE0;
+	border:none;
+}

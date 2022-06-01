@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Contact</title>
+<link href="../css/client.css" rel="stylesheet" type="text/css">
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+<style>
+main div {
+    width: 50%;
+    height: 110px;
+    background-color: #4c55a5;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: auto;
+	}
+main div h1 {
+    text-align: center;
+    font-family: HelveticaNeue;
+	font-size: 60px;
+	font-weight: 400;
+    background-color: #4C55A5;
+	padding-top: 20px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+	.name{
+		float:left;
+		width:300px;
+	}
+.submit_btn   {
+    width: 160px;
+    height: 30px;
+    background-color: #4C55A5;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+.submit_btn:hover{
+    -webkit-box-shadow: 2px 2px 15px 3px #515151;
+    box-shadow: 2px 2px 15px 3px #515151;
+	}
+</style>
+</head>
+
+<body>
+<div id="container">
+  		<div class="navbar">
+ <div class="circle"></div>
+  <a href="index.html">Home</a>
+  <a href="about.html">About Me</a>
+  <div class="dropdown">
+    <button class="dropbtn">Keyboards
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="keyboards.html">Products</a>
+      <a href="videos.html">Videos</a>
+    </div>
+  </div>
+  <a href="contact.html">Contact</a>
+  <button class="toCheckout" onclick="window.location.href = 'checkout_other.html';"><i class="icon-shopping-cart"></i></button>
+</div>
+<main>
+<div class="lightgraybig">
+</div>
+<div>
+<h1>Contact Me</h1>
+
+<form>
+	<p>Your Name: <input name="user_name" type="text" id="user_name" value="First and Last Name" size="50"></p>
+	<p>Your Email: <input name="user_email" type="email" id="user_email" size="50"></p>
+	<p>Leave a message:<br><textarea name="user_comment" cols="65" rows="10" id="user_comment"></textarea></p>
+	<input type="submit" class="submit_btn" onclick="reload()" formmethod="Get" value="Submit Response">
+</form>
+	
+</div>
+</main>
+	</div>
+<script>
+	function reload(){
+		window.location.reload(true);
+	}
+</script>
+</body>
+</html>
